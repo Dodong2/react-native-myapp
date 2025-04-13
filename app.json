@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/dong.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.dodong_arocha.MyApp"
@@ -36,7 +36,7 @@
       ]
     ],
     "splash": {
-      "image": "./assets/images/splash-icon.png",
+      "image": "./assets/images/dong.png",
       "resizeMode": "contain",
       "backgroundColor": "#13181f"
     },
